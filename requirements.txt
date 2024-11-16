@@ -1,5 +1,5 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-Flask==2.2.2
+Flask==2.0.1
 pandas==1.3.5
 numpy==1.21.6
 fair-esm==2.0.0
